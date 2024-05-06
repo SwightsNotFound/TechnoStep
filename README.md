@@ -10,4 +10,4 @@ You can alternatively download this from [CurseForge](https://www.curseforge.com
 
  
 [Original Song](https://www.youtube.com/watch?v=RNd1N3eBwOs)
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RNd1N3eBwOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![TechnoStep](https://img.youtube.com/vi/RNd1N3eBwOs/0.jpg)](https://www.youtube.com/watch?v=RNd1N3eBwOs)
