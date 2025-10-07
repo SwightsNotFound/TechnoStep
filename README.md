@@ -1,6 +1,3 @@
-# Moved
-This has been moved to my own self-hosted [Gitea instance](https://git.swightshome.xyz/Swight/TechnoStep).
-
 # TechnoStep
 Replaces Minecrafts normal Pigstep sounds with a Technoblade version by [ Avatarpeanut](https://www.youtube.com/channel/UC4nTfXc1yDkZVyj3Ci9KdvQ).
 
@@ -15,3 +12,6 @@ You can alternatively download this from [CurseForge](https://www.curseforge.com
 [Original Song](https://www.youtube.com/watch?v=RNd1N3eBwOs)
 
 [![TechnoStep](https://img.youtube.com/vi/RNd1N3eBwOs/0.jpg)](https://www.youtube.com/watch?v=RNd1N3eBwOs)
+
+# Alternative
+This has also been mirrored to my own self-hosted [Gitea server](https://git.swightshome.xyz/Swight/swightshome).
